@@ -1,0 +1,7 @@
+title: Qualtrics Gateway | College of Liberal Arts at Temple University
+baseurl: "/qualtrics" # the subpath of your site, e.g. /blog
+url: "https://cla.temple.edu" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+login_url: https://#
