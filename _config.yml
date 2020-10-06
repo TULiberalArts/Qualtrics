@@ -4,4 +4,4 @@ url: "https://cla.temple.edu" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 markdown: kramdown
-login_url: https://#
+login_url: https://clatemple.qualtrics.com
