@@ -26,7 +26,13 @@ The use of Qualtrics through this website is intended for non-commercial and aca
 
 ### What If I Have Additional Questions?
 
-For technical support using Qualtrics you may contact Qualtrics<sup id="fnref-3"><a class="footnote-ref" href="#fn-3">3</a></sup> directly via e-mail at <a href="mailto:support@qualtrics.com">support@qualtrics.com</a> or by telephone at <a href="tel:1-800-340-9194">1-800-340-9194</a>.
+You may contact Qualtrics directly<sup id="fnref-3"><a class="footnote-ref" href="#fn-3">3</a></sup> by visiting the [Qualtrics Support Center][9].
+
+1. Click **Sign in with SSO** and enter `clatemple` as the **Organization ID**.
+
+1. Enter the email address registered to your Qualtrics account. This is typically your AccessNet (***tua99999@temple.edu*** or ***firstname.lastname@temple.edu***) email alias.
+
+1. Follow the link sent to your email to finish signing in to [Qualtrics Support][9].
 
 If you are experiencing problems accessing Qualtrics via this website or have any additional questions please submit a <a href="https://tuhelp.temple.edu/">TUhelp request</a> for assistance<sup id="fnref-2"><a class="footnote-ref" href="#fn-2">2</a></sup>.
 
@@ -40,7 +46,7 @@ If you are experiencing problems accessing Qualtrics via this website or have an
 <p>When submitting a <a href="https://tuhelp.temple.edu/">TUhelp request</a> please identify 'CLA' as the referring organization as doing so will help expedite your request.&#160;<a class="footnote-backref" href="#fnref-2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
 </li>
 <li id="fn-3">
-<p>Phone or e-mail assistance from Qualtrics is available during their normal business hours, 7:00am - 7:00pm Mountain Time on weekdays (Monday - Friday), except holidays. Limited e-mail support is available after hours and weekends. Qualtrics responds to support requests based on the order they are received and relative importance as reasonably determined by Qualtrics.&#160;<a class="footnote-backref" href="#fnref-3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+<p>Customer Support provided by Qualtrics is available during their normal business hours, 7:00am - 7:00pm Mountain Time on weekdays (Monday - Friday), except holidays. Limited e-mail support is available after hours and weekends. Qualtrics responds to support requests based on the order they are received and relative importance as reasonably determined by Qualtrics.&#160;<a class="footnote-backref" href="#fnref-3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>
@@ -55,3 +61,4 @@ If you are experiencing problems accessing Qualtrics via this website or have an
 [6]: http://www.qualtrics.com/terms-of-service/
 [7]: https://its.temple.edu/tech-policies
 [8]: https://tuhelp.temple.edu/
+[9]: https://www.qualtrics.com/support-center/login/
